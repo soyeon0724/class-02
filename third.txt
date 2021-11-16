@@ -1,2 +1,6 @@
 thrid
 git diff
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d2fc495b1ae675432c4ca350c28ee3ad6656e74
